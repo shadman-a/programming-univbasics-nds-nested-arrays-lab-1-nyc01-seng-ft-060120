@@ -48,7 +48,7 @@ def matrix_lookup(matrix, row, column)
     ORGANIC_PRODUCE.sort
   ]
 
-  produce[1][3]
+  produce[3][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
